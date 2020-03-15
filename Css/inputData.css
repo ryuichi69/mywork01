@@ -1,0 +1,20 @@
+/*入力ページ向け　ここから*/
+@media screen and (max-width:480px)
+{
+    .mobile_disable
+    {
+        display:none;    
+    }
+
+    body
+    {
+        position:static;
+    }
+}
+
+.input_form
+{
+    min-width:180px;
+    min-height: 25px;
+}
+

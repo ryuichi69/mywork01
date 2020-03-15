@@ -1,0 +1,6 @@
+body
+{
+    color:#444444;//共通文字色
+    position: relative;
+    overflow-x: hidden;//横スクロールの廃止
+}
